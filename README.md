@@ -4,7 +4,7 @@ this client is basically a monkey skid by retarded devs who think making a chat 
 
 # the devs
 
-all of them are shit coders except max who actually knows java, i wish i had taken screenshots of the retarded monkey shit that they said in the group chat. the main dev doesn't even know java and pretty much just skids from other clients. 
+all of them are shit coders except max who actually knows java, i wish i had taken screenshots of the retarded monkey shit that they said in the group chat. the main dev doesn't even know java and pretty much just skids from other clients. jake knows java too ig
 
 # why i leaked
 
