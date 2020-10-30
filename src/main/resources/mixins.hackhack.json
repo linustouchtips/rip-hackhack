@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.zoom.hackhack.mixin.mixins",
+  "refmap": "mixins.hackhack.refmap.json",
+  "mixins": [
+    "MixinNetworkManager"
+  ]
+}
