@@ -9,3 +9,6 @@ all of them are shit coders except max who actually knows java, i wish i had tak
 # why i leaked
 
 the main "dev" kept removing me from the repo and the group chat thinking i would leak it, i had no intention of leaking it till he removed from the repo. you brought this upon yourself big man.
+
+# side note
+pls don't ever consider using this as a base for your client
